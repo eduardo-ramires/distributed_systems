@@ -1,0 +1,37 @@
+programação paralela- cuda 
+
+Programação/Multitarefa:
+-concomitante e concorrente
+
+Para que usar SD?
+- Para compartilhar recursos 
+
+Como SD operam?
+-Comunicação de dados, atráves de protocolos de comunicação, modelo TCP/IP
+
+Arquitetura:
+-Cliente - servidor
+-Server side
+-Server socket 
+
+Thread: 
+-Mini processos
+-Envolvem Rotinas ou tarefas ou instruções 
+	-Executadas concorrentemente 
+-Tipos: 
+	- Com seção critica = memoria compartilhada, sincronismo
+	-Sem seção Critica = sem memoria compartilhada
+
+
+Processo:
+-Thread: Classes - sem Memoria compartilhada
+-Runable: Interface - com memoria compartilhada
+
+
+
+
+
+
+
+
+SD = Sistemas Distribuídos.
