@@ -1,0 +1,6 @@
+com\mycompany\udp_project\UDP_project.class
+Model\Pessoa.class
+Controller\EnviadorUDP.class
+Controller\RecebedorUDP.class
+Controller\ComunicadorUDP.class
+View\Cliente.class
